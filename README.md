@@ -1,4 +1,4 @@
-# MetaQuest3ExtraMagnitBattery
+# MetaQuest3ExtraMagnetBattery
 ![GitHub Logo](/Screenshots/renderbattery.png)
 
 Using this project you can assemble an additional magnetic battery for the Quest3 virtual reality helmet for a strap from GomrVR.
