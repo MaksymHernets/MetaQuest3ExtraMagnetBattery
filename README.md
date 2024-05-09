@@ -13,7 +13,7 @@ The advantage of a self-assembled battery is that you can buy it at half the pri
 | Magnet N52 8mm X 2mm | 4 | 0,06 | 0,24 | 4 | 4 | link |
 | Contact 6pin | 1 | 0,5 | 0,5 | 20 | 20 | link |
 | Case DIY | 1 | 1,5 | 1,5 | 4 | 4 | link |
-| Bolts M3 L3 | 4 | 0,04 | 0,16 | 1 | 4 | link |
+| Bolts M3x4 | 4 | 0,04 | 0,16 | 1 | 4 | link |
 | Wives 1mm l10 | 5 | 0,05 | 0,20 | 1 | 5 | link |
 
 ## Connection diagram
