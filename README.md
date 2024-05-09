@@ -24,4 +24,4 @@ The advantage of a self-assembled battery is that you can buy it at half the pri
 
 ## History
 First working prototype with case
-![GitHub Logo](/Screenshots/scheme_connect_live.jpg)
+![GitHub Logo](/Screenshots/workprototype_dark.jpg)
