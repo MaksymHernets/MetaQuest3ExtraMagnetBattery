@@ -17,7 +17,11 @@ The advantage of a self-assembled battery is that you can buy it at half the pri
 | Wives 1mm l10 | 5 | 0,05 | 0,20 | 1 | 5 | link |
 
 ## Connection diagram
-
+![GitHub Logo](/Screenshots/scheme_connect_live.jpg)
 ## Assembly
 
 ## Result
+
+## History
+First working prototype with case
+![GitHub Logo](/Screenshots/scheme_connect_live.jpg)
